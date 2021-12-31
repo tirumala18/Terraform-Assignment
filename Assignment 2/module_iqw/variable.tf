@@ -1,0 +1,7 @@
+
+variable "vpcid" {
+}
+
+variable "name"{
+    
+}

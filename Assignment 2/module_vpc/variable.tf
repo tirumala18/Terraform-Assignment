@@ -1,0 +1,2 @@
+variable "vpcname" {}
+variable "cidr" {}
